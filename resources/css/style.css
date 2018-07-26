@@ -6,20 +6,19 @@ body {
 p {
   color: gray;
   font-size: 21px;
-}
-
-.verdana {
-  font-family: Verdana;
 
 }
+
 h1{
   font-weight: normal;
+  font-family: Verdana;
   font-size: 50px;
   color: white;
 }
 
 h2 {
   font-weight: 300;
+  font-family: Verdana;
   font-size: 42px;
   color: white;
 }
@@ -29,6 +28,12 @@ a {
   font-size: 16px;
 }
 
-.class {
-  padding-top: 20px;
+.icon {
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
 }
