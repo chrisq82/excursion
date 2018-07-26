@@ -1,11 +1,34 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
-h1 {
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.verdana {
   font-family: Verdana;
+
+}
+h1{
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.class {
+  padding-top: 20px;
 }
